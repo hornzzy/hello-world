@@ -1,3 +1,3 @@
 # hello-world
 a new program
-it's my fist git test
+it's my first git test
